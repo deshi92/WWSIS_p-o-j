@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="Lista_cwiczen_1"/>
 	<classpathentry kind="src" path="Lista_cwiczen_2"/>
+	<classpathentry kind="src" path="Lista_cwiczen_4"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Lista_cwiczen_3"/>
 	<classpathentry kind="output" path="bin"/>
